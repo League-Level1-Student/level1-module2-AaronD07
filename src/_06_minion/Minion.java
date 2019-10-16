@@ -33,7 +33,7 @@ public class Minion{
 		}
 		public String getName() {
 			// TODO Auto-generated method stub
-			return  name;
+			return name;
 			
 		}
 		public void setName(String name) {
